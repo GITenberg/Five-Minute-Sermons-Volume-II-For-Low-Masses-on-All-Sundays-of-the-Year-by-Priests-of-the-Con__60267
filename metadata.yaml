@@ -1,0 +1,41 @@
+_repo: Five-Minute-Sermons-Volume-II-For-Low-Masses-on-All-Sundays-of-the-Year-by-Priests-of-the-Con__60267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paulist Fathers
+    aliases:
+    - Congregation of the Missionary Priests of St. Paul the Apostle
+    - Society of Missionary Priests of St. Paul the Apostle
+    - Missionary Society of St. Paul the Apostle
+    - Paulists
+    - Missionary Society of Saint Paul the Apostle
+    gutenberg_agent_id: '50791'
+    url: http://www.gutenberg.org/2009/agents/50791
+    wikipedia: https://en.wikipedia.org/wiki/Paulist_Fathers
+  editor:
+    agent_name: Hecker, Isaac Thomas
+    aliases:
+    - Hecker, Isaac T. (Isaac Thomas)
+    - Hecker, I. T. (Isaac Thomas)
+    birthdate: 1819
+    deathdate: 1888
+    gutenberg_agent_id: '50874'
+    url: http://www.gutenberg.org/2009/agents/50874
+    wikipedia: https://en.wikipedia.org/wiki/Isaac_Hecker
+description: ''
+gutenberg_issued: '2019-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Sermons'
+- !lcsh 'Sermons, American -- 19th century'
+- !lcc 'BX'
+- GITenberg
+title: "Five Minute Sermons, Volume II.\r\nFor Low Masses on All Sundays of the Year\
+  \ by Priests of the Congregation of St. Paul"
+url: http://www.gutenberg.org/ebooks/60267
