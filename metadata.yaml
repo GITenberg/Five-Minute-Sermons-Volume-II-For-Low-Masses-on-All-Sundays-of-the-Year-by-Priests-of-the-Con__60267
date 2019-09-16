@@ -1,5 +1,8 @@
 _repo: Five-Minute-Sermons-Volume-II-For-Low-Masses-on-All-Sundays-of-the-Year-by-Priests-of-the-Con__60267
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Paulist Fathers
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50874
     wikipedia: https://en.wikipedia.org/wiki/Isaac_Hecker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60267#Five-Minute-Sermons-Volume-II-For-Low-Masses-on-All-Sundays-of-the-Year-by-Priests-of-the-Con_
 gutenberg_issued: '2019-09-09'
 gutenberg_type: Text
 identifiers:
